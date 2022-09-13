@@ -1,0 +1,19 @@
+{
+  "name": "hiring-system-db-models",
+  "version": "1.0.0",
+  "description": "Database models for hiring management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sufo10/hiring-models.git"
+  },
+  "author": "Sujan Poudel <sujan.poudel210@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "shortid": "^2.2.16"
+  }
+}
